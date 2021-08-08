@@ -4,5 +4,5 @@
   	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeOliveiraAmorim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div>
-	<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=GuilDeOliveiraAmorim&theme=dracula"/>
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GuilDeOliveiraAmorim&theme=dracula"/>
 </div>
