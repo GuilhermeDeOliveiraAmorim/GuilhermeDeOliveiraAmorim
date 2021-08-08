@@ -4,5 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeOliveiraAmorim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeDeOliveiraAmorim"/>
+<img height="180em" src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeDeOliveiraAmorim)](https://github.com/anuraghazra/github-readme-stats)
+"/>
 </div>
