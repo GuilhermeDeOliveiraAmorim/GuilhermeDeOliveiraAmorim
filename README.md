@@ -11,12 +11,3 @@ Em estudo, Node.js, Express, TypeScript, React, React Native, Next.js e Go.<br><
 ![]([https://github-readme-stats.vercel.app/api?username=GuilhermeDeOliveiraAmorim&theme=darcula&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=GuilhermeDeOliveiraAmorim))<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeDeOliveiraAmorim&theme=darcula&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeOliveiraAmorim)](https://github.com/GuilhermeDeOliveiraAmorim/github-readme-stats)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GuilhermeDeOliveiraAmorim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=GuilhermeDeOliveiraAmorim&icon=0&color=0)](https://visitcount.itsvg.in)
