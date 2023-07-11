@@ -1,10 +1,10 @@
 # 💫 About Me:
 <b>Atual</b>: Desenvolvedor full stack, utilizando PHP com framework CakePHP, além de HTML, CSS e Javascript. Skills em ferramentas de construção e edição de imagens digitais (Illustrator e Photoshop).
-<br>
+<br><br>
 <b>Em estudo</b>: DDD e Clean Architecture aplicadas a projetos Node.js, Express, TypeScript, React, React Native, Next.js e Go.
-<br>
+<br><br>
 <b>Graduação</b>: Ciência da Computação (Universidade Federal de Alagoas, 2006-201?). Desenvolvimento de competências em Java, MySQL, Engenharia de Software e Empreendedorismo. Bolsista de iniciação científica (Biotecnologia); bolsista de extensão (software desktop); monitor (Teoria da Computação); TCC na área de Análise de Sentimento (nota máxima, com publicação nacional e internacional).
-<br>
+<br><br>
 <b>Outras formações</b>: 
 <li>MBA em Desenvolvimento Full Stack com Javascript e TypeScript pelo Instituto de Gestão e Tecnologia da Informação (2023);</li>
 <li>Curso Sequencial de Formação Complementar da Universidade Federal de Pernambuco em parceria com a Motorola Mobility. Desenvolvimento de habilidades em Java e Análise de Testes de Software (2013);</li>
