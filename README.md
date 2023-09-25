@@ -10,7 +10,7 @@
 <li>Curso Sequencial de Formação Complementar da Universidade Federal de Pernambuco em parceria com a Motorola Mobility. Desenvolvimento de habilidades em Java e Análise de Testes de Software (2013);</li>
 <li>Mestrado em Ciência da Computação (Universidade Federal de Sergipe) com atuação nas áreas de Computação Afetiva e Interação Homem-Máquina, grande área Inteligência Artificial. (2014 - Não finalizado);</li>
 <br>
-<b>Outras experiências</b>: 3 anos de serviço público (auxiliar administrativo na Prefeitura de Campo Grande/AL). Criação de portal web (Se Liga Arapiraca)
+<b>Outras experiências</b>: 3 anos de serviço público (auxiliar administrativo na Prefeitura de Campo Grande/AL). Criação de portal web (Se Liga Arapiraca).
 <br>
 
 ## 🌐 Socials:
