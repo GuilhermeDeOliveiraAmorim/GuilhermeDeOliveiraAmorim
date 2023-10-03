@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>Atual</b>: Desenvolvedor full stack, utilizando PHP com framework CakePHP, além de HTML, CSS e Javascript. Skills em ferramentas de construção e edição de imagens digitais (Illustrator e Photoshop).
+<b>Atual</b>: Desenvolvedor frontend com React e TypeScript.
 <br><br>
 <b>Em estudo</b>: DDD e Clean Architecture aplicadas a projetos Node.js, Express, TypeScript, React, React Native, Next.js e Go.
 <br><br>
