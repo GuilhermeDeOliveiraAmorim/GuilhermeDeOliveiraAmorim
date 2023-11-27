@@ -1,7 +1,7 @@
 # 💫 About Me:
 <b>Atual</b>: Desenvolvedor frontend com React e TypeScript.
 <br><br>
-<b>Em estudo</b>: DDD e Clean Architecture aplicadas a projetos Node.js, Express, TypeScript, React, Next.js e Go.
+<b>Em estudo</b>: DDD e Clean Architecture aplicadas a projetos Go, TypeScript, Node.js e Next.js.
 <br><br>
 <b>Graduação</b>: Ciência da Computação (Universidade Federal de Alagoas, 2006-2013). Desenvolvimento de competências em Java, MySQL, Engenharia de Software e Empreendedorismo. Bolsista de iniciação científica (Biotecnologia); bolsista de extensão (software desktop); monitor (Teoria da Computação); TCC na área de Análise de Sentimento (nota máxima, com publicação nacional e internacional).
 <br><br>
