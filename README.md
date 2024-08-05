@@ -5,7 +5,8 @@
 <br><br>
 <b>Graduação</b>: Ciência da Computação (Universidade Federal de Alagoas, 2006-2013). Desenvolvimento de competências em Java, MySQL, Engenharia de Software e Empreendedorismo. Bolsista de iniciação científica (Biotecnologia); bolsista de extensão (software desktop); monitor (Teoria da Computação); TCC na área de Análise de Sentimento (nota máxima, com publicação nacional e internacional).
 <br><br>
-<b>Outras formações</b>: 
+<b>Outras formações</b>:
+<li>MBA em Pós-Gradução em Desenvolvimento Avançado em Go pela Full Cycle (2024);</li>
 <li>MBA em Desenvolvimento Full Stack com Javascript e TypeScript pelo Instituto de Gestão e Tecnologia da Informação (2023);</li>
 <li>Curso Sequencial de Formação Complementar da Universidade Federal de Pernambuco em parceria com a Motorola Mobility. Desenvolvimento de habilidades em Java e Análise de Testes de Software (2013);</li>
 <li>Mestrado em Ciência da Computação (Universidade Federal de Sergipe) com atuação nas áreas de Computação Afetiva e Interação Homem-Máquina, grande área Inteligência Artificial. (2014 - Não finalizado);</li>
