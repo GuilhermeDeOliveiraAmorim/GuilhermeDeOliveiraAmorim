@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>Atual</b>: Desenvolvedor frontend com React e TypeScript.
+<b>Atual</b>: Monitor do curso de Engenharia de Software do MBA USP/Esalq.
 <br><br>
 <b>Em estudo</b>: DDD e Clean Architecture aplicadas a projetos Go, TypeScript, Node.js e Next.js.
 <br><br>
