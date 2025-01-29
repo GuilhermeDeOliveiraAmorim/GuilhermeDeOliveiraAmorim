@@ -16,5 +16,3 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gui___amorim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guideoliveiraamorim)
-
-[![Guilherme Amorim profile views](https://u8views.com/api/v1/github/profiles/5620529/views/day-week-month-total-count.svg)](https://u8views.com/github/GuilhermeDeOliveiraAmorim)
