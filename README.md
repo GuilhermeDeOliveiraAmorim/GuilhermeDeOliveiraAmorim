@@ -1,5 +1,7 @@
 # 💫 About Me:
-<b>Atual</b>: Monitor do curso de Engenharia de Software do MBA USP/Esalq.
+<b>Atual</b>: 
+1) Monitor do curso de Engenharia de Software do MBA USP/Esalq.
+2) Desenvolvedor Go (Golang) atuando no desenvolvimento de uma API para um sistema de streaming de vídeos, aplicando as melhores práticas de desenvolvimento de software - MamutTV.
 <br><br>
 <b>Em estudo</b>: DDD e Clean Architecture aplicadas a projetos Go, TypeScript, Node.js e Next.js.
 <br><br>
