@@ -1,20 +1,30 @@
-# 💫 About Me:
-<b>Atual</b>: 
-<br><li>Monitor do curso de Engenharia de Software do MBA USP/Esalq.
-<br><li>Desenvolvedor Go (Golang) atuando no desenvolvimento de uma API para um sistema de streaming de vídeos, aplicando as melhores práticas de desenvolvimento de software - MamutTV.
-<br><br>
-<b>Em estudo contínuo</b>: DDD e Clean Architecture aplicadas a projetos Go, TypeScript e Next.js.
-<br><br>
-<b>Graduação</b>: Ciência da Computação (Universidade Federal de Alagoas, 2006-2013). Desenvolvimento de competências em Java, MySQL, Engenharia de Software e Empreendedorismo. Bolsista de iniciação científica (Biotecnologia); bolsista de extensão (software desktop); monitor (Teoria da Computação); TCC na área de Análise de Sentimento (nota máxima, com publicação nacional e internacional).
-<br><br>
-<b>Outras formações</b>:
-<li>MBA em Desenvolvimento Avançado em Go pela Full Cycle (2024);</li>
-<li>MBA em Desenvolvimento Full Stack com Javascript e TypeScript pelo Instituto de Gestão e Tecnologia da Informação (2023);</li>
-<li>Curso Sequencial de Formação Complementar da Universidade Federal de Pernambuco em parceria com a Motorola Mobility. Desenvolvimento de habilidades em Java e Análise de Testes de Software (2013);</li>
-<li>Mestrado em Ciência da Computação (Universidade Federal de Sergipe) com atuação nas áreas de Computação Afetiva e Interação Homem-Máquina, grande área Inteligência Artificial. (2014 - Não finalizado);</li>
-<br>
-<b>Outras experiências</b>: 3 anos de serviço público (auxiliar administrativo na Prefeitura de Campo Grande/AL). Criação de portal web (Se Liga Arapiraca).
-<br>
+# 💫 Sobre mim
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gui___amorim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guideoliveiraamorim)
+## 🚀 Atual
+- 🎓 **Monitor** do curso de **Engenharia de Software** no **MBA USP/Esalq**  
+- 💻 **Desenvolvedor Go (Golang)** no **MamutTV**, criando API para sistema de streaming com **Clean Architecture** e melhores práticas de desenvolvimento
+
+## 📚 Em estudo contínuo
+- DDD e Clean Architecture aplicados a projetos em **Go**, **TypeScript** e **Next.js**
+
+## 🎓 Graduação
+**Ciência da Computação** – Universidade Federal de Alagoas (2006–2013)  
+- Ênfase em **Java**, **MySQL**, **Engenharia de Software** e **Empreendedorismo**  
+- Bolsista de iniciação científica (*Biotecnologia*) e extensão (*software desktop*)  
+- Monitor em **Teoria da Computação**  
+- **TCC**: Análise de Sentimento (*nota máxima*, com publicação nacional e internacional)  
+
+## 🏅 Formações complementares
+- 📌 MBA em **Desenvolvimento Avançado em Go** – *Full Cycle* (2024)  
+- 📌 MBA em **Desenvolvimento Full Stack** com JavaScript e TypeScript – *IGTI* (2023)  
+- 📌 Curso Sequencial – **UFPE/Motorola Mobility**, com foco em **Java** e **Análise de Testes de Software** (2013)  
+- 📌 Mestrado em **Ciência da Computação** – *UFS* (2014 – não finalizado), nas áreas de **Computação Afetiva** e **Interação Humano-Computador**  
+
+## 🧩 Outras experiências
+- 3 anos como **auxiliar administrativo** na Prefeitura de Campo Grande/AL  
+- Criação do portal web **Se Liga Arapiraca**  
+
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guideoliveiraamorim)
