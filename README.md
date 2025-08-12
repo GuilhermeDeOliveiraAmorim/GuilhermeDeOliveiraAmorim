@@ -2,7 +2,9 @@
 
 ## 🚀 Atual
 - 🎓 **Monitor** do curso de **Engenharia de Software** no **MBA USP/Esalq**  
-- 💻 **Desenvolvedor Go (Golang)** no **MamutTV**, criando API para sistema de streaming com **Clean Architecture** e melhores práticas de desenvolvimento
+- 💻 **Desenvolvedor Back-end** na **Desperta Energia** (autônomo), atuando com **Node.js** e **TypeScript**.  
+  Rotina inclui criação de integrações com APIs externas e implementação de regras de negócio.  
+  **Competências**: TypeScript · Node.js · RabbitMQ
 
 ## 📚 Em estudo contínuo
 - DDD e Clean Architecture aplicados a projetos em **Go**, **TypeScript** e **Next.js**
