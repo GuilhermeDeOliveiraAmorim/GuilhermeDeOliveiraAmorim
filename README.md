@@ -1,10 +1,7 @@
 # 💫 Sobre mim
 
 ## 🚀 Atual
-- 🎓 **Monitor** do curso de **Engenharia de Software** no **MBA USP/Esalq**  
-- 💻 **Desenvolvedor Back-end** na **Desperta Energia**, atuando com **Node.js** e **TypeScript**.  
-  Rotina inclui criação de integrações com APIs externas e implementação de regras de negócio.  
-  **Competências**: TypeScript · Node.js · RabbitMQ
+- 🎓 **Monitor** do curso de **Engenharia de Software** no **MBA USP/Esalq**
 
 ## 📚 Em estudo contínuo
 - DDD e Clean Architecture aplicados a projetos em **Go**, **TypeScript** e **Next.js**
